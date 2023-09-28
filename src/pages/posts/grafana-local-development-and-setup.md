@@ -9,6 +9,8 @@ tags:
 ---
 H﻿ey guys this is from inside the markdown.\
 \
+g﻿rafana/grafana\
+\
 T﻿his is my local instance while devleoping grafana/grafana.
 
 ![image of image screen shot of developers guide in grafana/grafana](/public/images/uploads/screenshot-2023-09-28-at-19.47.58.png "Local of grafana/grafana")
