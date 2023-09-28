@@ -1,5 +1,3 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/01c7b4cb-936b-4e54-835c-bfc00401f4e0/deploy-status)](https://app.netlify.com/sites/demo-astro-netlify-cms/deploys)
-
 # Astro Netlify Boilerplate
 
 
