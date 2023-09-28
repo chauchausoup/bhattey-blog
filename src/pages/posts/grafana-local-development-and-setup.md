@@ -7,13 +7,15 @@ summary: Grafana local development hands on and some experience in build ing up
 tags:
   - grafana
 ---
-H﻿ey guys this is from inside the markdown.\
+Hey guys this is from inside the markdown.\
 \
-g﻿rafana/grafana\
+grafana/grafana\
 \
-T﻿his is my local instance while devleoping grafana/grafana.
+This is my local instance while devleoping grafana/grafana.
 
-M﻿oving forward.\
-T﻿his much for today and thanks you.\
+Moving forward.\
+This much for today and thanks you.\
 \
-C﻿heers.
+Cheers.
+
+![grafana/grafana](https://images.unsplash.com/photo-1506363649227-3a1c16eb92cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1000&q=80)
