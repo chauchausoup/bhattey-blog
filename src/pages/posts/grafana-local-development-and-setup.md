@@ -13,8 +13,6 @@ g﻿rafana/grafana\
 \
 T﻿his is my local instance while devleoping grafana/grafana.
 
-![image of image screen shot of developers guide in grafana/grafana](/public/images/uploads/screenshot-2023-09-19-at-13.51.25.png "Local of grafana/grafana")
-
 M﻿oving forward.\
 T﻿his much for today and thanks you.\
 \
