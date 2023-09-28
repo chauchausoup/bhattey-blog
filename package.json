@@ -1,0 +1,23 @@
+{
+  "name": "bhattey-blog",
+  "version": "0.0.1",
+  "description": "A boilerplate for building a fast static website with the Astro and Netlify CMS.",
+  "scripts": {
+    "start": "astro dev",
+    "build": "astro build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chauchausoup/bhattey-blog"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chauchausoup/bhattey-blog/issues"
+  },
+  "homepage": "https://github.com/chauchausoup/bhattey-blog",
+  "devDependencies": {
+    "astro": "latest",
+    "luxon": "^1.27.0",
+    "slugify": "^1.5.3"
+  }
+}
