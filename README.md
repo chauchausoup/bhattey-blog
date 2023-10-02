@@ -25,8 +25,6 @@ Based on the [Eleventy Netlify Boilerplate](https://github.com/danurbanowicz/ele
 
 ## Want to try it out now?
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/chauchausoup/bhattey-blog&stack=cms)
-
 Clicking the button above will deploy a copy of the demo website to your Netlify
 account (you can create an account during this process if you don't have one)
 and everything needed for running the CMS:
