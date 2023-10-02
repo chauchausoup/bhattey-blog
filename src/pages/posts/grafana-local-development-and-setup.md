@@ -1,4 +1,5 @@
 ---
+layout: "../../layouts/Post.astro"
 title: g dev
 date: 2023-10-02T03:45:58.501Z
 author: krishna dhakal
