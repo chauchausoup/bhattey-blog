@@ -1,4 +1,5 @@
 ---
+layout: "../../layouts/Post.astro"
 title: some other day post
 date: 2023-10-02T03:55:40.179Z
 author: krishna dhakal
