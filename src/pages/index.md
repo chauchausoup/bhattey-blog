@@ -1,6 +1,6 @@
 ---
 layout: "../layouts/Page.astro"
-title: Welcome
+title:
 section: home
 ---
 

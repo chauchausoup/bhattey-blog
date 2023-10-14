@@ -1,5 +1,5 @@
 {
-    "title": "Astro Netlify Boilerplate",
+    "title": "bhattey-blog",
     "description": "A template for building a simple blog website with the Astro, Netlify CMS, and with deployment to Netlify.",
     "url": "https://bhattey-blog.netlify.app",
     "repo": "https://github.com/chauchausoup/bhattey-blog"
